@@ -16,5 +16,5 @@ backend
 
 ## imgs
 
-amoTech-dash.gif 
 
+![Texto Alternativo](amoTech-dash.gif)
