@@ -2,17 +2,19 @@
 
 ### Finitech bancaria de serviços de segurança 
 
-#### arquitetura
+#### arquitetura inicial
 
-- docker
-    - versão 
-- ptyhon
-    - versão 
-- flask
-    - versão
-    - 
+```bash
+backend
+│
+├─ Dockerfile
+├─ requirements.txt
+│
 
-#### frameworks
-- flask
-  - requeriments
-  -  
+
+---
+
+## imgs
+
+amoTech-dash.gif 
+
