@@ -15,3 +15,8 @@ backend
 
 
 ![alt text](admin-dashboard-1.png)
+
+---
+
+
+![alt text](dashs-1.gif)
