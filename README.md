@@ -4,12 +4,11 @@
 
 #### arquitetura inicial
 
-bash
-backend
-│
-├─ Dockerfile
-├─ requirements.txt
-│
+- docker
+- flask
+- python
+
+obs: em construção e manutenção
 
 ## imgs
 
