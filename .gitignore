@@ -3,10 +3,13 @@
 
 # python
 __pycache__/
+**/__pycache__/
 *.pyc
 
 # docker
 *.log
+.data/
+mysql_data/
 
 # vscode
 .vscode/
