@@ -17,4 +17,4 @@ backend
 ## imgs
 
 
-![Texto Alternativo](amoTech-dash.gif)
+![alt text](admin-dashboard-1.png)
