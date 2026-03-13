@@ -4,15 +4,12 @@
 
 #### arquitetura inicial
 
-```bash
+bash
 backend
 │
 ├─ Dockerfile
 ├─ requirements.txt
 │
-
-
----
 
 ## imgs
 
