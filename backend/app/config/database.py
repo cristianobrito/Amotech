@@ -2,6 +2,7 @@ import os
 import pymysql
 
 def get_connection():
+
     connection = pymysql.connect(
         host=os.getenv("DB_HOST"),
         user=os.getenv("DB_USER"),
@@ -10,4 +11,5 @@ def get_connection():
         port=int(os.getenv("DB_PORT", 3306)),
         cursorclass=pymysql.cursors.DictCursor
     )
+
     return connection

@@ -1,2 +1,15 @@
+# env
 .env
-/nano
+
+# python
+__pycache__/
+*.pyc
+
+# docker
+*.log
+
+# vscode
+.vscode/
+
+# pasta pessoal
+nano/
